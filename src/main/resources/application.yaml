@@ -1,0 +1,9 @@
+spring:
+  main:
+    allow-circular-references: true
+server:
+  port: 8081
+
+key:
+  #url: http://test1.ru/v6/latest/USD
+  url: http://localhost:8088/v6/latest/USD
